@@ -12,9 +12,9 @@ _This text is italic_
 
 
 <!-- Strong / Bold Text -->
-**This text is italic**
+**This text is strong / bold**
 
-__This text is italic__
+__This text is strong / bold__
 
 
 <!-- Strikethrough -->
